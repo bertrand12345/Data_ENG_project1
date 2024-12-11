@@ -10,7 +10,6 @@ This is repo for compiling and installing python from scratch
 
 
 #### B. **Goals:**
-By the end of this lab, learners should be able to:
 1. Understand how to use command-line tools in Python.
 2. Extract keywords f## Projects for Specialization
 
@@ -19,7 +18,7 @@ By the end of this lab, learners should be able to:
 # Keyword Extractor Tool to HashTag Tool (Lab 1)
 
 #### A. **Overview:**
-In this lab, learners will gain hands-on experience with command-line tools in Python to perform ETL tasks. Specifically, the lab focuses on extracting keywords from transcriptions using the Keyword Extractor Tool and creating hashtags using the Hashtag Tool.
+In this lab, we will gain hands-on experience with command-line tools in Python to perform ETL tasks. Specifically, the lab focuses on extracting keywords from transcriptions using the Keyword Extractor Tool and creating hashtags using the Hashtag Tool.
 rom a transcription using the Keyword Extractor Tool.
 3. Create hashtags using the Hashtag Tool.
 4. Limit the number of keywords to a maximum of the top keywords.
@@ -55,7 +54,7 @@ rom a transcription using the Keyword Extractor Tool.
 ### SQLite Destination Lab
 
 #### **Overview:**
-In this lab, you will work with the `etl.py` command-line tool to extract keywords from a text file and load them into a SQLite database. You will then query the database and customize the tool to return a specific number of results.
+In this lab, we will work with the `etl.py` command-line tool to extract keywords from a text file and load them into a SQLite database. We will then query the database and customize the tool to return a specific number of results.
 
 #### **Tasks:**
 1. **First**, run the `python etl.py` command and observe the three commands available: `delete`, `etl`, and `query`.
@@ -65,11 +64,7 @@ In this lab, you will work with the `etl.py` command-line tool to extract keywor
 5. **For further practice**, create your own version of the tool in GitHub and extend the database with different metadata using another NLP tool.
 
 
-#### **Reflections on What You Learned When Done:**
-1. Experience in extracting data from text files and loading them into an SQLite database using a command-line tool.
-2. Understanding how to query a database using a custom Python script.
-3. Developing the ability to customize command-line tools to meet specific requirements.
-4. Insight into extending existing tools and integrating other technologies like NLP.
+
 
 #### **References:**
 - [GitHub Repository](https://github.com/nogibjj/coursera-applied-data-eng-projects)
